@@ -61,4 +61,4 @@ Platforms:   macOS · iOS/iPadOS · Linux
 
 ---
 
-*Open to AI/ML internships and research roles — Summer 2027 and beyond.*
+*Open to AI/ML internships and research roles*
