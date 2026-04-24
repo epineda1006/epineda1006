@@ -2,8 +2,9 @@
 
 **AI/ML Researcher & Engineer** · Fresno State CS '28 · NSF USHER Scholar
 
-I study where AI fails the people who need it most — and build the fix.
-My research is grounded in lived experience as a full-time power wheelchair user with SMA Type 2.
+AI systems are increasingly capable — but capability without inclusion is an incomplete solution.
+I'm a researcher and CS student studying where that gap shows up in the real world and what it takes to close it.
+Relay is my active answer: on-device computer vision that reconstructs inaccessible physical interfaces, built from the ground up on lived experience.
 
 ---
 
