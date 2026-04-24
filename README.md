@@ -1,5 +1,3 @@
-# Eric Pineda Ramirez
-
 **AI/ML Researcher & Engineer** · Fresno State CS '28 · NSF USHER Scholar
 
 AI systems are increasingly capable — but capability without inclusion is an incomplete solution.
