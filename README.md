@@ -1,4 +1,4 @@
-*AI/ML Researcher & Engineer** · Fresno State CS '28 · NSF USHER Scholar*
+**AI/ML Researcher & Engineer** · Fresno State CS '28 · NSF USHER Scholar
 
 AI systems are increasingly capable — but capability without inclusion is an incomplete solution.
 I'm a researcher and CS student studying where that gap shows up in the real world and what it takes to close it.
