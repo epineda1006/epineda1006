@@ -9,8 +9,6 @@ Relay is my active answer: on-device computer vision that reconstructs inaccessi
 ## What I'm Building
 
 ### [Relay](https://github.com/epineda1006/Relay) — Accessibility AI Research Project
-An iOS/iPadOS app that reconstructs inaccessible physical interfaces using on-device computer vision.
-No server. No data sent. No dependency on connectivity.
 
 - Python prototype: OpenCV + PyTorch + Tesseract OCR · 1920×1080 live annotated camera feeds
 - iOS deployment: CoreML · Vision framework · AVFoundation · SwiftUI
