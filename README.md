@@ -30,18 +30,6 @@ No server. No data sent. No dependency on connectivity.
 
 ---
 
-## Stack
-Languages:   Python · Swift · C++ · PHP · Java · JS
-AI / ML     PyTorch · OpenCV · CoreML · Vision · MediaPipe · pandas · Tesseract
-
-iOS: Apple SwiftUI · AVFoundation · CoreBluetooth · Xcode
-
-Tools:       React/Vite · MySQL · Git · Vercel · Jupyter · Raspberry Pi 5
-
-Platforms:   macOS · iOS/iPadOS · Linux
-
----
-
 ## Experience
 
 - **IT Intern** — Fowler Unified School District *(Mar 2026–Present)*
